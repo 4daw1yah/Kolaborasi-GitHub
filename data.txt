@@ -1,5 +1,9 @@
 Daftar kontribusi:
-- [ ] Anggota 1 menambahkan satu baris teks di 
+Daftar kontribusi:
+- [ ] Anggota 1 : Novi Adawiyah mengisi nama di README.md dan menandai 
+kontribusi di data.txt, lalu unggah ke repository.
 sini.
-- [ ] Anggota 2 menambahkan satu baris teks di 
+- [ ] Anggota 2 : Amanda Rahmawati Hidayat mengambil update terbaru dari repository, lalu 
+mengisi NIM di README.md dan menandai kontribusi di data.txt.-
+- [ ] Anggota 3 menambahkan satu baris teks di 
 sini.
