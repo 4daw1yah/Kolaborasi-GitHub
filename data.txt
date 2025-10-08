@@ -5,5 +5,5 @@ kontribusi di data.txt, lalu unggah ke repository.
 sini.
 - [ ] Anggota 2 : Amanda Rahmawati Hidayat mengambil update terbaru dari repository, lalu 
 mengisi NIM di README.md dan menandai kontribusi di data.txt.-
-- [ ] Anggota 3 menambahkan satu baris teks di 
-sini.
+- [ ] Anggota 3 : Anandita Syahrani Putri memperbarui repository lokalnya agar sinkron 
+dengan perubahan dari Anggota 2.

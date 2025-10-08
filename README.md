@@ -9,4 +9,4 @@ perubahan pada file `data.txt`.
 
 - Nama Anggota 1 :Novi Adawiyah (2403026)
 - Nama Anggota 2 :Amanda Rahmawati Hidayat(2404332)
-- Nama Anggota 3 : Anandita Syahrani Putri
+- Nama Anggota 3 : Anandita Syahrani Putri (2404854)
